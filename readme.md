@@ -231,7 +231,7 @@ https://www.youtube.com/watch?v=6piWKpjCQPw
     Lahenduse kontrollimiseks on testid failist ex2c.php (repo
     icd0007tests).
 
-6.  Commit-ige muudatused ja push-ige need Bitbucket-isse.
+6.  Commit-ige muudatused ja push-ige need Github'i.
 
     Lisage commit-ile tag ex2.
 
